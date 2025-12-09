@@ -160,7 +160,7 @@ INFO:root:Agent session started successfully
 
 ## License
 
-Copyright (c) 2024 Swetank. All rights reserved.
+Copyright (c) 2025 Swetank. All rights reserved.
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
